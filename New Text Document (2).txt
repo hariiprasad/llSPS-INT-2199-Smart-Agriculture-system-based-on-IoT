@@ -1,0 +1,10 @@
+SCOPE:
+All most all countries population is depending on agriculture by using water and land resources optimally. Still most of the countries depending on labor work and they do not use proper pest/disease control, crop management and quality management systems. Hence in addition to that, still in traditional agriculture they don't use proper optimal uniform water distribution in field's. Hence, a novel IoT [1] technology based agricultural monitoring system is greatly required for IT people, farmers in developing countries.
+Smart Agriculture System based on Iot can monitor soil moisture and climatic
+conditions to grow and yield a good crop. The farmer can also get the real-time
+weather forecasting data by using external platforms like Open Weather API. Farmer
+will be provided a mobile app using which he can monitor the temperature, humidity
+and soil moisture parameters along with weather forecasting details. Based on all the
+parameter, farmer can water his crop by controlling the motor using the mobile
+application. Thus even if the farmer is not present near his crop he can water his crop
+by controlling the motors using the application from anywhere.
